@@ -1,4 +1,4 @@
 matplotlib==3.7.0
-numpy==1.24.2
-pandas==1.5.3
+numpy>=1.22.2
+pandas>=2.0.3
 py-pod==2.0.3
